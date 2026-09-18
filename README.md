@@ -6,8 +6,8 @@ A lightweight, responsive academic homepage for GitHub Pages. No build step or e
 
 - Edit `index.html` for biography, news, publications, experience, and education.
 - Edit `style.css` for appearance and responsive layout.
-- The current avatar is a typographic monogram, not a photograph. Replace the `.monogram` element with your own portrait when ready.
-- Contact email is taken from the publicly available CVPR paper. No Google Scholar profile or CV is invented.
+- The profile photo is stored in `assets/portrait.jpg`.
+- Contact email is taken from the publicly available CVPR paper. The Google Scholar link is provided by the site owner.
 
 ## Preview
 
