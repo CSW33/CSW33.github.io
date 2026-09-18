@@ -7,3 +7,5 @@
 :root{--paper:#fbfdff;--line:#dcecf6;--soft:#eef8fe}
 .institution-mark.xpeng{background:#050505;border-color:#050505;display:grid;place-items:center}
 .institution-mark.xpeng img{width:30px;height:auto;display:block}
+.institution-mark.university-logo{background:transparent;border-color:transparent}
+.institution-mark.university-logo img{width:38px;height:38px;object-fit:contain;display:block}
