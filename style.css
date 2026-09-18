@@ -2,3 +2,8 @@
 
 .portrait{display:block;width:176px;height:220px;object-fit:cover;border-radius:12px;border:1px solid var(--line);margin-bottom:25px;background:white}
 @media(max-width:600px){.portrait{grid-row:1/5;width:80px;height:104px;margin:0;border-radius:8px}.profile-links{column-gap:15px;row-gap:5px}}
+
+/* Lighter sky-blue canvas and official XPeng mark */
+:root{--paper:#fbfdff;--line:#dcecf6;--soft:#eef8fe}
+.institution-mark.xpeng{background:#050505;border-color:#050505;display:grid;place-items:center}
+.institution-mark.xpeng img{width:30px;height:auto;display:block}
